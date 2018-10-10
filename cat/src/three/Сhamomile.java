@@ -1,8 +1,8 @@
 package three;
 
-public class Ñhamomile extends Flowers {
+public class Chamomile extends Flowers {
 	private int cost;
-	Ñhamomile(String name,int cost) {
+	Chamomile(String name,int cost) {
 	super(name);
 	this.cost = cost;
 	}
