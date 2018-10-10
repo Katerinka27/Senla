@@ -1,2 +1,4 @@
-
-Новый текстовый документ\.txt
+# IntellijIdea files
+*.iml
+.idea
+out
