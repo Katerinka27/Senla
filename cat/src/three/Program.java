@@ -5,8 +5,8 @@ public class Program {
 
 	public static void main(String[] args) {
 		ArrayList<Flowers> bouqet = new ArrayList<Flowers>();
-		bouqet.add(new Rose("Роза", 10));
-		bouqet.add(new Сhamomile("Ромашка", 5));
+		bouqet.add(new Rose("Р РѕР·Р°", 10));
+		bouqet.add(new Chamomile("Р РѕРјР°С€РєР°", 5));
 		int sum = 0;
 				
 		for(Flowers f : bouqet)
@@ -14,6 +14,6 @@ public class Program {
 			sum += f.getCost();
 		}
 		
-		System.out.println("Букет собран " + ", " + "его стоимость - " + sum);			
+		System.out.println("Р‘СѓРєРµС‚ СЃРѕР±СЂР°РЅ " + ", " + " РµРіРѕ СЃС‚РѕРёРјРѕСЃС‚СЊ - " + sum);			
 	}
 }
