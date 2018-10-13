@@ -8,7 +8,7 @@ public class Generic {
 	private int max_value = 999;
 	public int rand()
 	{
-		int a = rand.nextInt(max_value-min_value)+min_value;
+		int a=rand.nextInt(max_value-min_value)+min_value;
 		return a ;
 	}
 }
