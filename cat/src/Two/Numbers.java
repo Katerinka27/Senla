@@ -7,12 +7,12 @@ public class Numbers {
 		int b = 0;
 	for (int i = 0;i<3;i++)	{
 		numb.add(gen.rand());
-		System.out.println("×èñëo" + " " +numb.get(i));
+		System.out.println("Ğ§Ğ¸ÑĞ»Ğ°" + " " +numb.get(i));
 	}
 	
 	for (int i = 0;i<3;i++)	{
 		b +=numb.get(i) / 100;
 	}
-	System.out.println("ñóììà èõ ïåğâûõ öèôğ " + b);
+	System.out.println("Ğ¡ÑƒĞ¼Ğ¼Ğ° Ğ¸Ñ… Ğ¿ĞµÑ€Ğ²Ñ‹Ñ… Ñ‡Ğ¸ÑĞµĞ» " + b);
 }
 }
