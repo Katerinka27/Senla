@@ -3,9 +3,10 @@ package Two;
 public class Program {
 
 	public static void main(String[] args) {
-		Numbers nn = new Numbers();
-		Generic gg = new Generic();
-		nn.F(gg);
+		Numbers numb = new Numbers();
+		Generic gen = new Generic();
+		numb.fillNumbersList(gen);
 	}
 
 }
+
