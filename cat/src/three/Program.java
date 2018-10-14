@@ -5,7 +5,6 @@ public class Program {
 
 	public static void main(String[] args) {
 		ArrayList<Flowers> bouqet = new ArrayList<Flowers>();
-		bouqet.add(new Rose("Роза", 10));
 		bouqet.add(new Chamomile("Ромашка", 5));
 		int sum = 0;
 				
