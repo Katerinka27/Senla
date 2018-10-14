@@ -1,11 +1,12 @@
 package Two;
 
-public class Program {
+import java.util.Random;
 
-	public static void main(String[] args) {
-		Numbers numb = new Numbers();
-		Generic gen = new Generic();
-		numb.fillNumbersList(gen);
+public class Generic {
+	Random rand = new Random();
+	private int min = 100;
+	private int max = 1000;
+	public int rand(){
+		return rand.nextInt(max - min) + min;
 	}
-
 }
