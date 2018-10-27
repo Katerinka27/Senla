@@ -1,0 +1,21 @@
+numberService:2;price:90.0;information:bad
+numberService:0;price:100.0;information:good
+numberService:1;price:115.0;information:so-so
+numberService:4;price:100.0;information:Good Service
+numberService:5;price:100.0;information:Good Service
+numberService:6;price:100.0;information:good
+numberService:7;price:1300.0;information:good
+numberService:8;price:1400.0;information:gsdfood
+numberService:9;price:100.0;information:good
+numberService:10;price:1500.0;information:sdfgood
+numberService:11;price:100.0;information:good
+numberService:12;price:100.0;information:gosdfsod
+numberService:13;price:100.0;information:good
+numberService:14;price:100.0;information:good
+numberService:15;price:1300.0;information:good
+numberService:16;price:1400.0;information:gsdfood
+numberService:17;price:100.0;information:good
+numberService:18;price:1500.0;information:sdfgood
+numberService:19;price:100.0;information:good
+numberService:20;price:100.0;information:gosdfsod
+numberService:21;price:100.0;information:good

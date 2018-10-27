@@ -1,0 +1,7 @@
+name:Pasha;numberRoom:5;TimeStart:20.11.2018;TimeEnd:22.11.2018;numberService:
+name:Dima;numberRoom:null;TimeStart:15.11.2018;TimeEnd:17.11.2018;numberService:2,
+name:Dasha;numberRoom:5;TimeStart:14.11.2018;TimeEnd:16.11.2018;numberService:
+name:Masha;numberRoom:null;numberService:
+name:Sasha;numberRoom:null;numberService:
+name:Вшьф;numberRoom:null;numberService:
+name:dim;numberRoom:null;numberService:

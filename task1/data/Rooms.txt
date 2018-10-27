@@ -1,0 +1,10 @@
+NumberRoom:4;price:88.99;capacity:2;star:1;status:busy;pastGuests:
+NumberRoom:9;price:100.13;capacity:10;star:3;status:free;pastGuests:
+NumberRoom:10;price:100.13;capacity:10;star:3;status:free;pastGuests:
+NumberRoom:0;price:100.0;capacity:10;star:5;status:free;pastGuests:
+NumberRoom:1;price:150.0;capacity:15;star:3;status:free;pastGuests:
+NumberRoom:2;price:300.99;capacity:20;star:7;status:free;pastGuests:
+NumberRoom:3;price:370.99;capacity:20;star:7;status:free;pastGuests:Dima,
+NumberRoom:5;price:1000.0;capacity:23;star:7;status:busy;pastGuests:Dasha,Pasha,
+NumberRoom:6;price:350.99;capacity:27;star:7;status:free;pastGuests:
+NumberRoom:7;price:900.99;capacity:200;star:70;status:free;pastGuests:

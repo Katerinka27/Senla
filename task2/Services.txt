@@ -1,0 +1,5 @@
+numberService:2;price:90.0;information:bad
+numberService:0;price:100.0;information:good
+numberService:1;price:115.0;information:so-so
+numberService:4;price:100.0;information:Good Service
+numberService:5;price:100.0;information:Good Service
