@@ -4,7 +4,7 @@ import by.balitskaya.hotel.model.Service;
 
 import java.util.List;
 
-public interface IServiseManager {
+public interface IServiсeManager {
     public void addService(Service service);
     public void changePrice(Integer idService, double newPrice);
     public int getCountServices();
