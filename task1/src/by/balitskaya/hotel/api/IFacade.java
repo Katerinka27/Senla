@@ -9,7 +9,7 @@ import java.util.Comparator;
 import java.util.Date;
 import java.util.List;
 
-public interface IFacade {
+interface IFacade {
     public Room roomGuest(String name);
 
     public List<Service> servicesGuest(String name);
