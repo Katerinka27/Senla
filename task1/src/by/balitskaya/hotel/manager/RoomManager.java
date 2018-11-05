@@ -43,13 +43,7 @@ public class RoomManager implements IRoomManager {
     }
 
     public int getCountRoom() {
-        int countRoom = 0;
-        for (Room room : roomRepository.getRooms()) {
-            if (room != null) {
-                countRoom++;
-            }
-        }
-        return countRoom;
+        return countRepository.getRooms().size();
     }
 
     public void changeRoomStatus(int numberRoom, RoomStatus status) {
